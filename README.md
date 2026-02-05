@@ -1,5 +1,7 @@
 # ParentChild
 This is my first change 
+
+this is changes from  parent branch 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.15.
 
 ## Development server
